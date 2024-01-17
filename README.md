@@ -1,7 +1,7 @@
 
 # Brand Page React App
 
-Nike brand front page using React.js with a visually appealing UI.
+Nike brand front page using React.js with a visually appealing UI
 
 
 ## Deployment
